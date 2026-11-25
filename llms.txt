@@ -1,0 +1,19 @@
+# AI Masters Academy
+
+> AI Masters Academy is a training institute offering six job-focused courses: Python Full-Stack Development, Artificial Intelligence and Machine Learning, Data Science, Cyber Security, UI/UX Designing and Digital Marketing. Learning is project-based with mentor reviews, career support and classroom, live online or weekend batches.
+
+## Course pages
+- [Python Fullstack Development](https://YOUR-DOMAIN/courses/python-full-stack-development.html): 6 months, beginner friendly. Build complete web applications, from the database to the screen, using Python and modern web tools.
+- [Artificial Intelligence and Machine Learning](https://YOUR-DOMAIN/courses/artificial-intelligence-machine-learning.html): 7 months, basic python needed. Understand how models learn, then train, evaluate and deploy your own machine learning systems.
+- [Data Science](https://YOUR-DOMAIN/courses/data-science.html): 6 months, beginner friendly. Turn raw data into decisions: clean it, analyse it, model it and present it clearly.
+- [Cyber Security](https://YOUR-DOMAIN/courses/cyber-security.html): 6 months, basic networking helps. Learn to find weaknesses and protect systems, networks and applications in realistic lab environments.
+- [UI/UX Designing](https://YOUR-DOMAIN/courses/ui-ux-designing.html): 4 months, no design background needed. Research users, design clear interfaces and test prototypes until they are easy to use.
+- [Digital Marketing](https://YOUR-DOMAIN/courses/digital-marketing.html): 4 months, no prior experience needed. Plan, run and measure campaigns that bring in real customers across search, social and email.
+
+## Career support
+Resume and LinkedIn help, portfolio reviews, mock interviews and job application guidance.
+
+## Contact
+- Website: https://YOUR-DOMAIN/
+- WhatsApp and phone: +91 77029 70989
+- Email: pkumaruxd@gmail.com
